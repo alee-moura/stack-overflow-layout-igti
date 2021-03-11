@@ -20,9 +20,14 @@ html {
 }
 
 header {
+    width: 100%;
     background-color: #fafafb;
     border-top: 3px solid #f48024;
+    box-shadow: rgba(0,0,0,0.05) 0px 1px 2px 0px, rgba(0,0,0,0.05) 0px 1px 4px 0px, rgba(0,0,0,0.05) 0px 2px 8px 0px;
+    position: fixed;
+    top: 0;
 }
+
 
 nav .current {
     background-color: #eff0f1;
@@ -30,9 +35,13 @@ nav .current {
     text-decoration: none;
     border-right: 3px solid #f48024;
     font-weight: 700;
+    display: block;
+    padding-left: 8px;
+    line-height: 31px;
 }
 
 h1 {
+    margin-top: 0;
     font-size: 27px;
     font-weight: 400;
 }
@@ -41,6 +50,8 @@ h1 {
     border: 1px solid #d6d9dc;
     box-shadow: rgba(0,0,0,0.05) 0px 1px 2px 0px, rgba(0,0,0,0.05) 0px 1px 4px 0px, rgba(0,0,0,0.05) 0px 2px 8px 0px;
     margin-bottom: 16px;
+    width: 298px;
+    border-radius: 3px;
 }
 
 .panel h2 {
@@ -60,4 +71,56 @@ h1 {
 footer {
     background-color: #242729;
     color: #6a737c;
+}
+
+body {
+    margin: 0;
+}
+
+.header-inner {
+    height: 47px;
+    display: flex;
+    align-items: center;
+}
+
+.header-inner,
+.middle-area,
+.footer-area
+{
+    max-width: 1264px;
+    margin: auto;
+}
+
+.middle-area {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.content-area {
+    padding: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-left: 1px solid #d6d9dc;
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+}
+
+main {
+    flex: 1 1 450px;
+}
+
+nav {
+    width: 164px;
+    position: sticky;
+    top: 74px;
+}
+
+.nav-area {
+    padding-top: 24px;
+}
+
+.footer-area {
+    padding: 24px;
 }
