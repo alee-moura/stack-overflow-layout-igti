@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido durante o módulo 1 do bootcamp **Desenvolvedor Fr
 ### Repositório de Estudo do bootcamp:
 Também tenho um repositório dedicado apenas a os códigos, desafios, testes e estudos em geral referente ao bootcamp. Caso tenha interesse em acessar o repositório, basta clicar no botão abaixo.
 
-* [Acessar Repositório]()
+* [Acessar Repositório](https://github.com/ale-mouraboni/igti-frontend-bootcamp-study)
 
 ### Link do Curso:
 
