@@ -1,54 +1,34 @@
-<h1 align="center">Stack Overflow</h1>
-<p align="center">
-  
-  ![Primeira Página](readme/demo.gif)
+# Demo
+![Primeira Página](readme/demo.gif)
 
-</p>
+## Menu
+* [Como Utilizar](#Como-Utilizar)
+* [About](#About)
+* [Repositório de Estudo do bootcamp](#Repositório-de-Estudo-do-bootcamp)
+* [Link do Curso](#Link-do-Curso)
+* [License](#License)
 
-<p align="center">
-  Esse projeto foi desenvolvido durante o Bootcamp <strong>Desenvolvedor Front End</strong> da plataforma <a href="https://www.igti.com.br/">IGTI.</a>
-</p>
-
-<p align="center">
-   <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-Como-Utilizar">Como Utilizar</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#heavy_check_mark-About">About</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-License">License</a> 
-</p>
-</p>
-
-## :globe_with_meridians: Tecnologias
-<p>Projeto desenvolvido com as seguintes tecnologias:</p>
-
-* HTML5
-* CSS3
-
-## :wrench: Como Utilizar
-
+## Como Utilizar
 ```
-#1 - Clone o repositório
+1. - Clone o repositório
 $ git clone https://github.com/ale-mouraboni/stack-overflow-layout.git
 
-#2 - Abra o index.html
+2. - Abra o index.html
 ```
 
-## :heavy_check_mark: About
-<p>
-Esse projeto é um clone do layout da Stack Overflow feito apenas com HTML5 e CSS3.
-</br>
-Esse projeto foi desenvolvido durante o Bootcamp <strong>Desenvolvedor Front End</strong> da plataforma <strong>IGTI</strong>.
-</br>
-O repositório de estudos referente ao Bootcamp está disponível aqui no meu github. Basta clicar no botão abaixo para acessar.
-</br>
-<a href="https://github.com/ale-mouraboni/igti-frontend-bootcamp-study">Acessar Repositório.</a>
-</p>
+## About
+Esse projeto foi desenvolvido durante o módulo 1 do bootcamp **Desenvolvedor Front End** da plataforma **IGTI**.  
+É uma réplica bem simples do layout da Stack Overflow, desenvolvido em HTML5 e CSS3.
 
-### Responsive?
-[x] Yes  [ ] No
+### Repositório de Estudo do bootcamp:
+Também tenho um repositório dedicado apenas a os códigos, desafios, testes e estudos em geral referente ao bootcamp. Caso tenha interesse em acessar o repositório, basta clicar no botão abaixo.
 
-## :memo: License
-<p>This project is under the MIT license. See the [LICENSE] for more information.
-</p>
+* [Acessar Repositório]()
+
+### Link do Curso:
+
+* [IGTI Bootcamp - Desenvolvedor Front End](https://www.igti.com.br/custom/desenvolvedor-front-end/)
+
+## License
+This project is under the MIT license. See the [LICENSE] for more information.
+
