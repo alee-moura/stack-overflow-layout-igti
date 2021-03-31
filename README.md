@@ -5,7 +5,7 @@
 <div style="text-align: justify">
 
 ### Descrição
-Um símples clone do layout da Stack Overflow desenvolvido em HTML5 e CSS3. Esse projeto foi desenvolvido durante o Bootcamp Desenvolvedor Front End da plataforma IGTI.
+Um simples clone do layout da Stack Overflow desenvolvido em HTML5 e CSS3. Esse projeto foi desenvolvido durante o Bootcamp Desenvolvedor Front End da plataforma IGTI.
 
 </div>
 
