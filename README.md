@@ -11,9 +11,9 @@ Um simples clone do layout da Stack Overflow desenvolvido em HTML5 e CSS3. Esse 
 
 ---
 
-#### Link do Curso:
+#### Link da Plataforma:
 
-* [Matheus Battisti - Hora de Codar - Curso de Bootstrap](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze)
+* [IGTI](https://www.igti.com.br/)
 
 Também tenho um repositório dedicado apenas a códigos e exercícios referente ao bootcamp. Para acessar basta clicar no link abaixo.
 
