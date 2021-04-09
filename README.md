@@ -9,8 +9,6 @@ Um simples clone do layout da Stack Overflow desenvolvido em HTML5 e CSS3. Esse 
 
 </div>
 
----
-
 #### Link da Plataforma:
 
 * [IGTI](https://www.igti.com.br/)
@@ -19,13 +17,9 @@ Também tenho um repositório dedicado apenas a códigos e exercícios referente
 
 * [Acessar Repositório](https://github.com/ale-mouraboni/igti-frontend-bootcamp-study.git)
 
----
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
-
----
 
 Para ver o projeto você pode clonar ele com o seguinte comando:    
 
@@ -35,7 +29,7 @@ git clone https://github.com/ale-mouraboni/stack-overflow-layout-igti.git
   
 Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
   
-[Baixar Projeto](https://github.com/ale-mouraboni/stack-overflow-layout-igti/archive/refs/heads/main.zip)
+* [Baixar Projeto](https://github.com/ale-mouraboni/stack-overflow-layout-igti/archive/refs/heads/main.zip)
 
 ---
 
