@@ -1,5 +1,5 @@
 <h1 align="center">Stack Overflow</h1>
-<p align="center">a simple clone of the stack overflow layout. Project developed in the <strong>IGTI</strong> Frontend Bootcamp.
+<p align="center">A simple clone of the stack overflow layout. Project developed in the <strong>IGTI</strong> Frontend Bootcamp.
 </br>
 <a href="www.igti.com.br">Access Platform</a>
 </p>
